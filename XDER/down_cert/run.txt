@@ -1,0 +1,3 @@
+First install zmap: sudo apt install zmap
+Run down.sh: sudo /bin/bash down.sh
+If python cannot find the openssl module (error when running certificate_download.py after generating ips.csv): sudo pip install pyOpenSSL
